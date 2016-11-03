@@ -1,0 +1,92 @@
+/*Fonts*/
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: url('../fonts/OpenSans-Light.ttf');
+ }
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat-Bold.ttf');
+ }
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular.ttf');
+ }
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'OpenSans-Light';
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+.navbar-default img {
+    width: 100px;
+}
+
+.navbar-default .navbar-nav {
+    padding-top: 13px;
+}
+.navbar-default .navbar-nav>li>a {
+    font-weight: bold;
+    color: #29abe2;
+    transition: all ease-in-out 0.3s;
+}
+
+
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+
+/*Desktop Version*/
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+    display: none;
+    }    
+    .navbar-default img {
+    float: right;
+    margin: 10px 20px 0px 0px;
+    }
+    .navbar-toggle {
+    position: relative;
+    float: left;
+    padding: 9px 10px;
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 24px;
+    background-color: transparent;
+    background-image: none;
+    border: transparent;
+    border-radius: 4px;
+}
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: red;
+    }
+}

@@ -1,0 +1,417 @@
+/*Fonts*/
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: url('../fonts/OpenSans-Light.ttf');
+ }
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../fonts/Montserrat-Bold.ttf');
+ }
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular.ttf');
+ }
+
+.no-padding {
+	padding: 0px;
+}
+
+/*First Section Header + Scrollbar*/
+
+.carousel-inner {
+
+}
+
+.carousel-inner img {
+	width: 100%;
+	height: auto;
+}
+
+.carousel-caption {
+	top: 30%;
+}
+.carousel-caption h4 {
+	font-family: 'Montserrat';
+	color: white;
+	font-size: 35px;
+}
+.carousel-caption h1 {
+	font-family: 'Montserrat';
+	font-size: 100px;
+	margin-top: 5px;
+}
+.carousel-caption p {
+	padding: 20px;
+	font-size: 16px;
+}
+.carousel-caption button {
+	font-family: 'Montserrat';
+	border: solid 2px white;
+	background: transparent;
+	padding: 10px 20px;
+	transition: ease-in-out 0.4s all;
+}
+.carousel-caption button:hover {
+	background: white;
+	color: #29abe2;
+	border-color: #29abe2;
+}
+.carousel-caption button:active {
+	outline: none;
+}
+.carousel-caption button:focus {
+	outline: none;
+}
+
+
+
+
+
+
+/*intro-section*/
+.first-section {
+	padding: 70px 0px; 
+}
+.first-section-f img {
+	width: 100%;
+}
+.first-section-f h4{
+	color: #29abe2;
+	font-size: 23px;
+	font-weight: bold;
+}
+.first-section-f hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0; 
+}
+.first-section-f p {
+	font-size: 21px;
+}
+
+
+
+
+/*second-section*/
+.second-section {
+	background-image: url('../img/2nd-bg-01.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 70px;
+}
+
+.second-section h4 {
+	color: #29abe2;
+	font-size: 25px;
+	font-weight: bold;
+}
+.second-section hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0; 
+}
+.second-section p {
+	font-size: 15px;
+}
+.second-section button {
+	font-family: 'Montserrat';
+	font-weight: bold;
+	margin-top: 20px;
+	background: #29abe2;
+	color:white;
+	border: solid 2px #29abe2;
+	padding: 10px 30px;
+	transition: all ease-in-out 0.4s;
+}
+.second-section button:hover {
+	border-color: #29abe2;
+	color: #29abe2;
+	background-color: white;
+}
+
+/*Third Section*/
+
+
+
+
+
+
+
+
+
+
+
+/*Fourth Section*/
+.fourth-section {
+	padding: 60px;
+}
+.fourth-section h4 {
+	color: #29abe2;
+	font-size: 25px;
+	font-weight: bold;
+}
+.fourth-section hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.fourth-section p {
+	font-size: 15px;
+}
+
+
+
+/*Fifth section*/
+
+.fifth-section {
+	background: #272f34;
+}
+
+.fifth-text-grid {
+	padding: 120px 50px;
+}
+.fifth-section button {
+	border: solid 2px #29abe2;
+	color: #29abe2;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	background: transparent;
+	padding: 10px 30px;
+	transition: all ease-in-out 0.4s;
+}
+
+.fifth-section button:hover {
+	background-color: #29abe2;
+	color: white;
+	border-color: #29abe2;
+}	
+.fifth-section h4 {
+	color: white;
+}
+
+.fifth-section p {
+	font-size: 20px;
+	color: #939598;
+}
+
+
+
+
+
+
+
+
+
+
+/*Sixth Section*/
+
+.sixth-section {
+	padding: 100px 0px;
+}
+
+.seth-section-s img {
+	width: 100%;
+}
+
+.sep-section {
+	background-image: url('../img/sep-bg-01.png');
+	background-size: cover;
+}
+
+.sep-section h5 {
+	margin: 0px;
+	padding: 15px 30px;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.seth-section-s h4 {
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.seth-section-s button {
+	margin-top: 20px;
+	border: solid 2px #29abe2;
+	background: transparent;
+	padding: 8px 20px;
+	color: #29abe2;
+	font-weight: bold;
+	transition: all ease-in-out 0.4s; 
+}
+.seth-section-s button:hover {
+	background-color: #29abe2;
+	color: white;
+	border-color: #29abe2;
+}
+
+
+
+
+
+
+
+
+/*seveth Section*/
+
+  .owl-carousel .item{
+        margin: 3px;
+    }
+  .owl-carousel .item img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+.seventh-section {
+	text-align: center;
+	padding: 70px;
+	background-color: #272f34;
+}
+.seventh-section h4 {
+	color: #29abe2;
+	font-size: 30px;
+	font-family: 'Montserrat';
+}
+
+.seventh-section hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0; 
+}
+.seventh-section p {
+	color: #414042;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+/*eigth section Get in touch with us*/
+.eight-section {
+	background-image: url('../img/image-bg-1-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 110px 0px;
+}
+
+.eight-section h4 {
+	color: #29abe2;
+	font-size: 30px;
+	font-weight: bolder;
+	font-family: 'Montserrat';
+}
+
+.eight-section hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0; 
+}
+.eight-section p {
+	color: white;
+	font-size: 18px;
+}
+
+
+.eight-section-i input{
+	width: 100%;
+	background: white;
+	border: solid 2px white;
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 5px;
+}
+
+.eight-section-i textarea {
+	width: 100%;
+	background: white;
+	border: solid 2px white;
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 5px;
+	resize:vertical;
+}
+
+.eight-section-i button {
+	background-color: transparent;
+	border: solid 2px white;
+	color: white;
+	padding: 10px 30px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-family: 'Montserrat';
+	transition: all ease-in-out 0.4s;
+}
+.eight-section-i button:hover {
+	background-color: #29abe2;
+	color: white;
+	border-color: #29abe2;
+}
+
+
+
+
+/*Desktop Version*/
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+    display: none;
+    }
+    .carousel-inner {
+    	height: 100vh;
+    	margin-top: 75px;
+	}
+	.carousel-caption {
+		top: 5%;
+	}
+	.carousel-inner img {
+		height: 100vh !important;
+	}
+	.carousel-caption h4 {
+		font-size: 25px;
+	}
+	.carousel-caption h1 {
+		font-size: 50px;
+	}
+	.carousel-caption p {
+		font-size: 14px;
+		padding: 6px;
+	}
+	.second-section {
+		padding: 5px 0px;
+	}
+	.second-section p {
+		text-align: center;
+	}
+	.second-btn{
+		text-align: center;
+		margin-bottom: 10px;
+	}
+}

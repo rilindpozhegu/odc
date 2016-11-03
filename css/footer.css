@@ -1,0 +1,19 @@
+/*Fonts*/
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: url('../fonts/OpenSans-Light.ttf');
+ }
+
+
+
+footer {
+	background-image: url('../img/sep-bg-01.png');
+	padding: 30px 0px 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.footer-copy-r {
+	color: white;
+}
+
+.footer-social_media 
