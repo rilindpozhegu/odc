@@ -17,7 +17,7 @@
 }
 /*First Section Header + Scrollbar*/
 
-.carousel-inner {} .carousel-inner img {
+.carousel-inner img {
     width: 100%;
     height: auto;
 }
@@ -159,27 +159,6 @@
 	font-family: 'Montserrat';
 	font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*Fourth Section*/
 
@@ -360,6 +339,12 @@
     margin-top: 5px;
     border-radius: 5px;
 }
+.eight-section-i input: active {
+    outline: none;
+}
+.eight-section-i input: focus {
+    outline: none;
+}
 .eight-section-i textarea {
     width: 100%;
     background: white;
@@ -368,6 +353,12 @@
     margin-top: 5px;
     border-radius: 5px;
     resize: vertical;
+}
+.eight-section-i textarea: active {
+    outline: none;
+}
+.eight-section-i textarea: focus {
+    outline: none;
 }
 .eight-section-i button {
     background-color: transparent;
@@ -384,6 +375,7 @@
     color: white;
     border-color: #29abe2;
 }
+
 /*Desktop Version*/
 
 @media only screen and (min-width: 844px) {

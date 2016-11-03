@@ -7,7 +7,7 @@
 
 
 footer {
-	background-image: url('../img/sep-bg-01.png');
+	background-image: url('../img/footer-bg-01.png');
 	padding: 30px 0px 20px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -16,4 +16,11 @@ footer {
 	color: white;
 }
 
-.footer-social_media 
+.footer-social_media {
+	text-align: right;
+	color: #29abe2;
+	font-size: 25px;
+}
+.footer-social_media i {
+	padding: 0px 30px;
+}

@@ -1,0 +1,219 @@
+/*Fonts*/
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('../fonts/OpenSans-Light.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../fonts/Montserrat-Bold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+
+/*Header Section*/
+
+.header-section {
+	background-image: url('../img/header-backgorund-image-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 6%;
+}
+.header-caption-a {
+	padding: 100px 20px;
+}
+.header-caption-a hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid white;
+    margin: 1em 0;
+    padding: 0;
+    width: 10%;
+}
+.header-caption-a h2 {
+	color: white;
+	font-family: 'Montserrat';
+	margin: 10px 0px;
+}
+
+
+
+
+/*intro-section*/
+
+.first-section {
+    padding: 70px 0px;
+}
+.first-section-f img {
+    width: 100%;
+}
+.first-section-f h4 {
+    color: #29abe2;
+    font-size: 23px;
+    font-weight: bold;
+}
+.first-section-f hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0;
+}
+.first-section-f p {
+    font-size: 21px;
+}
+
+
+
+
+/*second-section*/
+
+.second-section {
+    background-image: url('../img/2nd-bg-01.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px;
+}
+.second-section h4 {
+    color: #29abe2;
+    font-size: 25px;
+    font-weight: bold;
+}
+.second-section hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0;
+}
+.second-section p {
+    font-size: 15px;
+}
+.second-section button {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    margin-top: 20px;
+    background: #29abe2;
+    color: white;
+    border: solid 2px #29abe2;
+    padding: 10px 30px;
+    transition: all ease-in-out 0.4s;
+}
+.second-section button:hover {
+    border-color: #29abe2;
+    color: #29abe2;
+    background-color: white;
+}
+
+
+
+
+/*eigth section Get in touch with us*/
+
+.eight-section {
+    background-image: url('../img/image-bg-1-01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 110px 0px;
+}
+.eight-section h4 {
+    color: #29abe2;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Montserrat';
+}
+.eight-section hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    margin: 1em 0;
+    padding: 0;
+}
+.eight-section p {
+    color: white;
+    font-size: 18px;
+}
+.eight-section-i input {
+    width: 100%;
+    background: white;
+    border: solid 2px white;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.eight-section-i input: active {
+	outline: none;
+}
+.eight-section-i input: focus {
+	outline: none;
+}
+.eight-section-i textarea {
+    width: 100%;
+    background: white;
+    border: solid 2px white;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    resize: vertical;
+}
+.eight-section-i textarea: active {
+	outline: none;
+}
+.eight-section-i textarea: focus {
+	outline: none;
+}
+.eight-section-i button {
+    background-color: transparent;
+    border: solid 2px white;
+    color: white;
+    padding: 10px 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    transition: all ease-in-out 0.4s;
+}
+.eight-section-i button:hover {
+    background-color: #29abe2;
+    color: white;
+    border-color: #29abe2;
+}
+
+
+
+
+
+
+
+
+
+/*Desktop Version*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+    .second-section {
+        padding: 5px 0px;
+    }
+    .second-section p {
+        text-align: center;
+    }
+    .second-btn {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
