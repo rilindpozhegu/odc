@@ -37,10 +37,17 @@ html {
 .navbar-default .navbar-nav>li>a {
     font-weight: bold;
     color: #29abe2;
+    border-bottom: solid 2px transparent;
     transition: all ease-in-out 0.3s;
 }
-
-
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: solid 2px #29abe2;
+    color: #29abe2;
+}
+.navbar-default .navbar-nav .active {
+    border-bottom: solid 2px #cc0000;
+    color: #29abe2;
+}
 
 @media(min-width:767px) {
     .navbar {
