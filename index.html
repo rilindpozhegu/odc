@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
 
+    <link rel="stylesheet" href="css/animate.min.css">
     <!-- Caroucel  -->
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
     <link rel="stylesheet" type="text/css" href="css/owl.theme.css">
@@ -137,9 +138,9 @@
             <div class="row">
                 <div class="col-md-12 first-section-f">
                     <div class="col-xs-12 desktop-d-n">
-                        <h4>Our Mission</h4>
+                        <h4 class="wow fadeInUp"  data-wow-delay="0.3s">Our Mission</h4>
                         <hr width="30%" align="left">
-                        <p>Ocean Dive Center Lifesaving are recognized and respected as a model organization having the confidence of the public. They support and care for one another while providing the highest quality service possible and are innovative and responsive to the needs of those they serve.</p>
+                        <p class="wow fadeInUp" data-wow-delay="1.6s">Ocean Dive Center Lifesaving are recognized and respected as a model organization having the confidence of the public. They support and care for one another while providing the highest quality service possible and are innovative and responsive to the needs of those they serve.</p>
                     </div>
                     <div class="col-md-5">
                         <img src="img/image-1-01.png">
@@ -498,10 +499,14 @@
 
     <!-- My Js changes -->
     <script type="text/javascript" src="js/odc.js"></script>
+    <script type="text/javascript" src="js/wow.min.js"></script>
 
 
 
-
+    <script type="text/javascript">
+          new WOW({ mobile: false }).init();
+        });
+    </script>
 
 
 

@@ -35,18 +35,20 @@ html {
     padding-top: 13px;
 }
 .navbar-default .navbar-nav>li>a {
+    margin: 0px 3px;
+    padding: 5px 20px;
     font-weight: bold;
     color: #29abe2;
     border-bottom: solid 2px transparent;
     transition: all ease-in-out 0.3s;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    border-bottom: solid 2px #29abe2;
-    color: #29abe2;
+    background-color: #29abe2;
+    color: white;
 }
 .navbar-default .navbar-nav .active {
-    border-bottom: solid 2px #cc0000;
-    color: #29abe2;
+    background-color: #29abe2;
+    color: white;
 }
 
 @media(min-width:767px) {
