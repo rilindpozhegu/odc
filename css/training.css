@@ -1,0 +1,147 @@
+/*Fonts*/
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url('../fonts/OpenSans-Light.ttf');
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../fonts/Montserrat-Bold.ttf');
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+}
+
+
+/*Header Section*/
+
+.header-section {
+	background-image: url('../img/image-bg-1-01.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 6%;
+    padding: 100px 200px;
+    font-family: 'Montserrat-Bold';
+    text-align: center;
+}
+.header-section h1 {
+    color: white;
+}
+
+.header-section input {
+    width: 100%;
+    margin: 5px 0px;
+    border-radius: 5px;
+    padding: 15px;
+    border:none;
+}
+.header-section button {
+    margin-top: 30px;
+      background : #00E266;
+      border: none;
+      color: white;
+      padding: 15px 40px;
+      border-radius: 5px; 
+      float: left;
+}
+
+.select_form {
+    width: 100%;
+    height: 53px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 13px;
+    background-color: #29abe2;
+    color: white;
+    font-family: 'Montserrat-Bold';
+    border: none;
+}
+
+.datepicker_form input {
+    height: 53px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 13px;
+    background-color: #29abe2;
+    color: white;
+    font-family: 'Montserrat-Bold';
+    border: none;
+    color: white;
+}
+
+.table-condensed {
+    cursor: pointer;
+}
+.datepicker_form ::-webkit-input-placeholder {
+    color: white !important;
+}
+/*Training Section*/
+.line hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    padding: 0;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.main_training {
+    padding-bottom: 70px;
+}
+.main_training h1 {
+    margin-top: 30px;
+    color: #29abe2;
+}
+
+.panels-training {
+    padding-top: 30px;
+}
+.trainig-panel {
+    background-image: url('../img/training-bg-pannel-01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    color: white;
+    padding: 40px 20px 10px 20px;
+}
+.trainig-panel h4 {
+    font-family: 'Montserrat-Bold';
+}
+.trainig-panel button {
+    background: #41494e;
+    border: none;
+    padding: 7px 12px;
+    margin-top: 20px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #29abe2;
+    padding: 0;
+    width: 20%;
+    margin: 0px;
+}
+
+
+
+
+/*Desktop Version*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none;
+    }
+    .header-section {
+    padding: 100px 10px;
+}
