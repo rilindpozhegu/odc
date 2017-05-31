@@ -170,3 +170,7 @@ hr {
     display: block;
 }
 
+.iso-box-section figure {
+  padding: 2px;
+  margin-bottom: 2px;
+}

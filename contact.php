@@ -42,22 +42,22 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="#" href="index.html">HOME</a>
+                        <a class="#" href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="about.html">ABOUT</a>
+                        <a class="#" href="about.php">ABOUT</a>
                     </li>
                     <li>
-                        <a class="#" href="event.html">EVENTS</a>
+                        <a class="#" href="event.php">EVENTS</a>
                     </li>
                     <li>
-                        <a class="#" href="galery.html">GALERY</a>
+                        <a class="#" href="galery.php">GALERY</a>
                     </li>
                     <li>
-                        <a class="#" href="training.html">TRAINING</a>
+                        <a class="#" href="training.php">TRAINING</a>
                     </li>
                     <li>
-                        <a class="active" href="contact.html">CONTACT US</a>
+                        <a class="active" href="contact.php">CONTACT US</a>
                     </li>
                 </ul>
             </div>
@@ -74,40 +74,14 @@
 
     <div class="clearfix"></div>
     <!-- last Section -->
-        <section id="" class="eight-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-7">
-                    <h4>Get In Touch With Us</h4>
-                    <hr width="20%">
-                    <p>Welcome to Ocean Dive Center (ODC) Lifesaving. We provide all forms of aquatic, leisure and hospitality management services to our clients for beaches, swimming pools, water parks, hotels and resorts. These services include providing beach lifeguards, pool lifeguards, water park lifeguards, swimming coaching, water sports, lifeguard training, beach management, guest service, leisure diving, diving training and commercial diving.</p>
-                </div>
-                <div class="col-md-5 eight-section-i">
-                    <input type="" name="" placeholder="Your Name">
-                    <input type="" name="" placeholder="Your Email">
-                    <input type="" name="" placeholder="Your Address">
-                    <textarea rows="4" placeholder="Your Messages"></textarea>
-                    <button>Submit</button>
-                </div>
-            </div>
-        </div>
-    </section>
+
+    <?php include 'contact_inputs.php';?>
     
 
-        <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="col-md-6 footer-copy-r">
-                <p>Copyright by Emirates Graphic</p>
-            </div>
-            <div class="col-md-6 footer-social_media mobile-d-n">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </div>
-        </div>
-    </footer>
+
+     <!-- Footer -->
+
+    <?php include 'footer_all.php';?>
 
         <!-- jQuery -->
     <script src="js/jquery-1.9.1.min.js"></script>

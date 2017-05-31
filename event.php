@@ -45,22 +45,22 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="" href="index.html">HOME</a>
+                        <a class="" href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="about.html">ABOUT</a>
+                        <a class="#" href="about.php">ABOUT</a>
                     </li>
                     <li>
-                        <a class="active" href="event.html">EVENTS</a>
+                        <a class="active" href="event.php">EVENTS</a>
                     </li>
                     <li>
-                        <a class="#" href="galery.html">GALERY</a>
+                        <a class="#" href="galery.php">GALERY</a>
                     </li>
                     <li>
-                        <a class="#" href="training.html">TRAINING</a>
+                        <a class="#" href="training.php">TRAINING</a>
                     </li>
                     <li>
-                        <a class="#" href="contact.html">CONTACT US</a>
+                        <a class="#" href="contact.php">CONTACT US</a>
                     </li>
                 </ul>
             </div>
@@ -170,19 +170,8 @@
 
 
      <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="col-md-6 footer-copy-r">
-                <p>Copyright by Emirates Graphic</p>
-            </div>
-            <div class="col-md-6 footer-social_media mobile-d-n">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </div>
-        </div>
-    </footer>   
+
+    <?php include 'footer_all.php';?>  
     
         <!-- jQuery -->
     <script src="js/jquery-1.9.1.min.js"></script>

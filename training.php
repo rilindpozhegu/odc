@@ -46,22 +46,22 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="" href="index.html">HOME</a>
+                        <a class="" href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="about.html">ABOUT</a>
+                        <a class="#" href="about.php">ABOUT</a>
                     </li>
                     <li>
-                        <a class="#" href="event.html">EVENTS</a>
+                        <a class="#" href="event.php">EVENTS</a>
                     </li>
                     <li>
-                        <a class="#" href="galery.html">GALERY</a>
+                        <a class="#" href="galery.php">GALERY</a>
                     </li>
                     <li>
-                        <a class="active" href="training.html">TRAINING</a>
+                        <a class="active" href="training.php">TRAINING</a>
                     </li>
                     <li>
-                        <a class="#" href="contact.html">CONTACT US</a>
+                        <a class="#" href="contact.php">CONTACT US</a>
                     </li>
                 </ul>
             </div>
@@ -72,7 +72,7 @@
 
     <!-- Header Section -->
 
-    <section class="header-section">
+    <section class="header-section" id="header_section_top">
         <div class="container">
         <div class="col-md-4 line mobile-d-n"><hr width="100%"></div>
             <div class="col-md-4">
@@ -117,56 +117,79 @@
         <div class="row panels-training">
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Beach lifeguard ( surf lifesaving Australia )</h4>
+                    <p>- ( surf lifesaving Australia ) – certificate approved by international  lifesaving federation </p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Pool  Lifeguard<br> ( RLLS  Australia ) </h4>
+                    <p>– certificate approved by International lifesaving federation</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Beach lifeguard ( surf lifesaving Australia )</h4>
+                    <p>- ( surf lifesaving Australia ) – certificate approved by international  lifesaving federation </p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Beach and pool Lifeguard ( high filed - UAE) </h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Beach and pool Lifeguard ( first aid international UK )</h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
-                    <h4>Pool Lifeguard Certification</h4>
-                    <p>Australian Pool lifeguard certification<br>
-                    High field Pool lifeguards<br>
-                    First Aid International Pool lifeguard certification</p>
-                    <button>Book Training</button>
+                    <h4>Emergency first aid at work ( highfiled )</h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
+                    <h4>Emergency first aid ( first aid international UK)</h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
+                    <h4>Emergency first aid at work including CPR AED </h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
+                    <h4>First aid<br> at work </h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
+                    <h4>Pediatric first aid including CPR </h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div style="padding: 30px 20px; margin-top: 10px;" class="trainig-panel">
+                    <h4>Junior lifeguard </h4>
+                    <p>&nbsp;<br>&nbsp;</p>
+                    <a href="#header_section_top" style="color: white;"><button>Book Training</button></a>
                 </div>
             </div>
         </div>
@@ -176,20 +199,8 @@
 
 
      <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="col-md-6 footer-copy-r">
-                <p>Copyright by Emirates Graphic</p>
-            </div>
-            <div class="col-md-6 footer-social_media mobile-d-n">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </div>
-        </div>
-    </footer> 
 
+    <?php include 'footer_all.php';?>
 
         <!-- jQuery -->
     <script src="js/jquery-1.9.1.min.js"></script>

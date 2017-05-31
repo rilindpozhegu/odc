@@ -48,22 +48,22 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="" href="index.html">HOME</a>
+                        <a class="" href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="about.html">ABOUT</a>
+                        <a class="#" href="about.php">ABOUT</a>
                     </li>
                     <li>
-                        <a class="#" href="event.html">EVENTS</a>
+                        <a class="#" href="event.php">EVENTS</a>
                     </li>
                     <li>
-                        <a class="active" href="galery.html">GALERY</a>
+                        <a class="active" href="galery.php">GALERY</a>
                     </li>
                     <li>
-                        <a class="#" href="training.html">TRAINING</a>
+                        <a class="#" href="training.php">TRAINING</a>
                     </li>
                     <li>
-                        <a class="#" href="contact.html">CONTACT US</a>
+                        <a class="#" href="contact.php">CONTACT US</a>
                     </li>
                 </ul>
             </div>
@@ -109,57 +109,163 @@
 
                                 <div class="my-gallery">
 
-                                    <figure class="iso-box photoshop places branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/1.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/1.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/2.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/2.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/3.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/3.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/4.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/4.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic places branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/5.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/5.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/6.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/6.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
                                     </figure>
 
-                                    <figure class="iso-box graphic branding col-md-4 col-xs-12">
-                                        <a href="img/galery1-01.png" itemprop="contentUrl" data-size="1024x1024">
-                                            <img src="img/galery1-01.png" itemprop="thumbnail" alt="Image description" />
+                                    
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/1.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/1.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/7.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/7.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/8.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/8.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/9.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/9.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/10.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/10.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/11.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/11.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/11.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/11.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/12.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/12.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/13.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/13.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/14.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/14.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/15.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/15.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/16.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/16.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop places branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/17-01.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/17-01.jpg" itemprop="thumbnail" alt="Image description" />
+                                        </a>
+                                    <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
+
+                                    </figure>
+
+                                    <figure class="iso-box photoshop graphic branding col-md-3 col-xs-12">
+                                        <a href="img/gallery/18-01.jpg" itemprop="contentUrl" data-size="1454x1024">
+                                            <img src="img/gallery/18-01.jpg" itemprop="thumbnail" alt="Image description" />
                                         </a>
                                     <!-- <figcaption itemprop="caption description">Image caption 1</figcaption> -->
 
@@ -244,27 +350,9 @@
 
 
 
+     <!-- Footer -->
 
-
-
-
-
-
-    <footer>
-        <div class="container">
-            <div class="col-md-6 footer-copy-r">
-                <p>Copyright by Emirates Graphic</p>
-            </div>
-            <div class="col-md-6 footer-social_media mobile-d-n">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </div>
-        </div>
-    </footer>   
-
-
+    <?php include 'footer_all.php';?>
 
 
         <!-- jQuery -->

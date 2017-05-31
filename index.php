@@ -47,22 +47,22 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="active" href="index.html">HOME</a>
+                        <a class="active" href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="about.html">ABOUT</a>
+                        <a class="#" href="about.php">ABOUT</a>
                     </li>
                     <li>
-                        <a class="#" href="event.html">EVENTS</a>
+                        <a class="#" href="event.php">EVENTS</a>
                     </li>
                     <li>
-                        <a class="#" href="galery.html">GALERY</a>
+                        <a class="#" href="galery.php">GALERY</a>
                     </li>
                     <li>
-                        <a class="#" href="training.html">TRAINING</a>
+                        <a class="#" href="training.php">TRAINING</a>
                     </li>
                     <li>
-                        <a class="#" href="contact.html">CONTACT US</a>
+                        <a class="#" href="contact.php">CONTACT US</a>
                     </li>
                 </ul>
             </div>
@@ -89,7 +89,9 @@
                 <div class="carousel-caption">
                     <h4>Welcome to</h4>
                     <h1>ODC LIFESAVING</h1>
-                    <p>Welcome to ODC LIFESAVING (ODC) Lifesaving. We provide all forms of aquatic, leisure and hospitality management services to our clients for beaches, swimming pools, water parks, hotels and resorts.</p>
+                    <p>ODC lifesaving, located in Abu Dhabi & Dubai, provides professional beach and pool Lifeguards and exclusive lifeguard training, swimming training, first-aid and CPR training and water sports.
+                    ODC lifesaving was established in 2006 with the aim of providing the safest environment for people indulging in water sports activities.
+                    Our company which is ISO -9001 compliant and certified, always conducts all its processes according to the certification rules.</p>
                     <button>ABOUT US</button>
                 </div>
             </div>
@@ -141,9 +143,9 @@
             <div class="row">
                 <div class="col-md-12 first-section-f">
                     <div class="col-xs-12 desktop-d-n">
-                        <h4 class="wow fadeInUp"  data-wow-delay="0.3s">Our Mission</h4>
+                        <h4>Our Mission</h4>
                         <hr width="30%" align="left">
-                        <p class="wow fadeInUp" data-wow-delay="1.6s">Ocean Dive Center Lifesaving are recognized and respected as a model organization having the confidence of the public. They support and care for one another while providing the highest quality service possible and are innovative and responsive to the needs of those they serve.</p>
+                        <p>ODC lifesaving Mission statement To provide the best quality safety service, in the beaches, pools, water parks and aquatics environment for the public, through rescue missions, safety education, beach management, pool management, enforcement and prevention </p>
                     </div>
                     <div class="col-md-5">
                         <img src="img/image-1-01.png">
@@ -152,11 +154,11 @@
                         <div class="mobile-d-n">
                             <h4>Our Mission</h4>
                             <hr width="15%" align="left">
-                            <p>Ocean Dive Center Lifesaving are recognized and respected as a model organization having the confidence of the public. They support and care for one another while providing the highest quality service possible and are innovative and responsive to the needs of those they serve.</p>
+                        <p>ODC lifesaving Mission statement To provide the best quality safety service, in the beaches, pools, water parks and aquatics environment for the public, through rescue missions, safety education, beach management, pool management, enforcement and prevention </p>
                         </div>
-                        <h4 style="margin-top: 40px;">Our Services?</h4>
+                        <h4 style="margin-top: 40px;">Our Vision</h4>
                         <hr width="15%" align="left">
-                        <p>As a leader in the aquatic safety and lifeguard services industry, the Ocean Dive Center Lifesaving sets international standards through quality nationally accredited training, highly skilled staff and stringent standard operating practices..</p>
+                        <p><b>ODC lifesaving vision</b><br>We are recognized and respected as a model organization has gained the confidence of the public. We support and care for one another while providing the highest quality service possible. We are innovative and responsive to the needs of those we service</p>
                     </div>
                 </div>
             </div>
@@ -173,7 +175,9 @@
                 <div class="col-md-10">
                     <h4>Why Choose Us?</h4>
                     <hr width="80%" align="left">
-                    <p>Ocean Dive Center Lifesaving offers a great service in hospitality management, lifeguarding, water sports, swimming coaching, swimming pool maintenance, leisure diving, diving training, commercial diving and lifesaving equipments, that serve all one’s needs. ODC Lifesaving strives to offer the best solution for its guest by providing safety and impartial advice at an honest price and constantly investigating new technologies and recommending them when they make sense. ODC Lifesaving loves what it does and some might say a bit too much, but they bring enthusiasm and commitment to every project they work on. ODC Lifesaving has learned that each business its mission, vision, values and environment – is unique. That’s why ODC Lifesaving has learnt to create individualized management approaches for its clients’ operations – in order to provide them with maximum value, efficiency and customer satisfaction ratings. Today, ODC Lifesaving stands at the forefront of the hospitality management industry providing the highest-quality leisure services for its clients. ODC Lifesaving takes pride in the services they provide and its team members take special care to provide consistent and exceptional experiences that ensure repeat business. ODC Lifesaving believes in building relationships that last and respect the unique nature of each and every one. Over the years, ODC Lifesaving have recruited and retained exceptional employees who believe in their work and care genuinely about their clients and customers.</p>
+                    <p>The ODC lifesaving has been providing its privileged and absolute service to the Abu Dhabi Municipality and to numerous other prestigious organization all across Abu Dhabi, Dubai, and Al Ain </p>
+                    <p>As a prominent Leader in the aquatic safety and lifeguard service industry, ODC Lifesaving set International standards by providing outstanding and internationally accredited trainings, highly skilled staff and stringent standard operation practices </p>
+                    <p>The ODC Lifesaving has always been dedicated toward saving lives and it’s also committed to the provision of proactive service on the beaches, pools, water park, and lake within the community.</p>
                 </div>
                 <div class="col-md-12 second-btn">
                     <button>CONTACT US</button>
@@ -257,24 +261,27 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h4>Mission Statement</h4>
+                    <h4>ODC Lifeguard and lifesaving Victoria </h4>
                     <hr width="100%" align="left">
-                    <p>To provide the highest quality safety services in the coastal and aquatic environment for the public through rescue, education, outreach, medical aid, beach management, pool, enforcement and prevention and hospitality management.</p>
+                    <p>Lifesaving Victoria (est 2002) is and initiative of the Royal lifesaving society Australia Victoria branch (est 1904) and surf lifesaving Victoria  ( est 1974 ) is has the mission to prevent aquatic related death and injury  and ODC currently working with lifesaving Victoria  and provide high standard lifeguard certificate for lifeguard who is working in UAE  and  ODC pool lifeguards are holing RLLS Australia  and beach Lifeguards are holding surf lifesaving Australia  and certificate approved by International  Lifesaving federation </p>
                 </div>
+
                 <div class="col-md-6">
-                    <h4>Day Diving Tips</h4>
+                    <h4>ODC lifeguards and certificate </h4>
                     <hr width="100%" align="left">
-                    <p>Ocean Diving Centre Lifesaving offers day trips, normally on weekends or whenever requested. Depending on sea conditions, a dive trip may include a visit to beautiful coral reefs such as Saadiyat Reef or beautiful wrecks such as Jasim and MV Ludwig.</p>
+                    <p>ODCs  most important function is to cater Highly qualified ,well trained professional pool and beach lifeguard who hold internationally recognized lifeguard certification to all our clients , all our Lifeguards are professionals and hold certificates by international recognized Lifesaving organization such as a surf lifesaving Australia , RLLS Australia ,  high filed , first aid international and our Lifeguard utmost essential responsibility for and ODC lifeguard is to prevent accidents and to create a safe environment for swimmers </p>
                 </div>
+
                 <div class="col-md-6">
-                    <h4>Lifeguard Training</h4>
+                    <h4>International Lifesaving and ODC lifesaving </h4>
                     <hr width="100%" align="left">
-                    <p>Ocean Dive Center Lifesaving is currently working closely with Sri Lanka lifesaving association and International Lifesaving federation and provides training for Lifeguards such as a ILS Surf Lifguard, ILS pool Lifeguard, ILS junior lifeguard program as well as CPR, AED and First aid The International Lifesaving Federation (ILS) is the world authority for drowning prevention, lifesaving and lifesaving sport. ILS lends support and collaborates with national and international organizations engaged in drowning prevention, water safety, water rescue, lifesaving, lifeguard and lifesaving sport.</p>
+                    <p>ODC is currently working closely with lifesaving Victoria, first aid international, High-filed, American Hart Association and international Lifesaving federation.ODC lifesaving provide training for Lifeguard and issue training certificate for program such as a beach and pool Lifeguarding, first aid, CPR, AED and swimming coaching.The international lifesaving federation is the world recognized authority for drowning prevention, lifesaving and life serving Sport. ILS leaders, support and collaborates with national and international organizations engaged in drowning preventions, water safety, water rescue, lifesaving, Lifeguarding and Lifesaving sports.</p>
                 </div>
+
                 <div class="col-md-6">
-                    <h4>Pool Maintenance Service</h4>
+                    <h4>Quality and conformity council </h4>
                     <hr width="100%" align="left">
-                    <p>Ocean Dive Center Lifesaving provides all kind of maintenance services for swimming pools. ODC Lifesaving services include pool water treatment, pool cleaning, pool chemical, pool water test and pool attendant service. When ODC Lifesaving takes on a job, they make sure that it is professionally done to the customer’s satisfaction. ODC Lifesaving have a loyal client base that keep coming back to them, as they know that they provide quality service and undertake any kind of pool maintenance services to ensure that the pool is clean and safe to swim in.</p>
+                    <p>ODC is a QCC approve Lifeguard training center and we are   currently working closely with QCC and provide Lifeguard training to meet the certification requirement of QCC </p>
                 </div>
             </div>
         </div>
@@ -421,7 +428,7 @@
         <div class="col-md-12">
             <h4>Latest From Gallery</h4>
             <hr width="10%" text-align="center">
-            <p>Lorem Ipsum is simply dummy text of the printing and
+            <p style="color: white;">Lorem Ipsum is simply dummy text of the printing and
                 <br> typesetting industry. Lorem Ipsum</p>
         </div>
         <div class="container">
@@ -429,17 +436,17 @@
                 <div class="span12">
 
                     <div id="owl-demo" class="owl-carousel">
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/1.jpg" alt="Owl Image">
                         </div>
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/2.jpg" alt="Owl Image">
                         </div>
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/3.jpg" alt="Owl Image">
                         </div>
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/4.jpg" alt="Owl Image">
                         </div>
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/11.jpg" alt="Owl Image">
                         </div>
-                        <div class="item"><img src="img/slider-img1-01.png" alt="Owl Image">
+                        <div class="item"><img src="img/gallery/12.jpg" alt="Owl Image">
                         </div>
                     </div>
 
@@ -451,40 +458,13 @@
 
 
     <!-- Eight Section Contact-->
-    <section id="" class="eight-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-7 mobile-d-n">
-                    <h4>Get In Touch With Us</h4>
-                    <hr width="20%">
-                    <p>Welcome to Ocean Dive Center (ODC) Lifesaving. We provide all forms of aquatic, leisure and hospitality management services to our clients for beaches, swimming pools, water parks, hotels and resorts. These services include providing beach lifeguards, pool lifeguards, water park lifeguards, swimming coaching, water sports, lifeguard training, beach management, guest service, leisure diving, diving training and commercial diving.</p>
-                </div>
-                <div class="col-md-5 eight-section-i">
-                    <input type="" name="" placeholder="Your Name">
-                    <input type="" name="" placeholder="Your Email">
-                    <input type="" name="" placeholder="Your Address">
-                    <textarea rows="4" placeholder="Your Messages"></textarea>
-                    <button>Submit</button>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    </div>
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="col-md-6 footer-copy-r">
-                <p>Copyright by Emirates Graphic</p>
-            </div>
-            <div class="col-md-6 footer-social_media mobile-d-n">
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-                <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-            </div>
-        </div>
-    </footer>
+    <?php include 'contact_inputs.php';?>
+
+
+     <!-- Footer -->
+
+    <?php include 'footer_all.php';?>
 
 
     <!-- jQuery -->
